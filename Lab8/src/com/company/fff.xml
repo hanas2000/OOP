@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_191" class="java.beans.XMLDecoder">
+ <int>3</int>
+ <object class="com.company.Plan">
+  <void property="date">
+   <string>ор</string>
+  </void>
+  <void property="describe">
+   <string>р</string>
+  </void>
+  <void property="name">
+   <string>рор</string>
+  </void>
+  <void property="people">
+   <string>о</string>
+  </void>
+  <void property="place">
+   <string>ро</string>
+  </void>
+  <void property="time">
+   <string>о</string>
+  </void>
+ </object>
+ <object class="com.company.Plan">
+  <void property="date">
+   <string>лол</string>
+  </void>
+  <void property="describe">
+   <string>ол</string>
+  </void>
+  <void property="name">
+   <string>олл</string>
+  </void>
+  <void property="people">
+   <string>ол</string>
+  </void>
+  <void property="place">
+   <string>л</string>
+  </void>
+  <void property="time">
+   <string>ло</string>
+  </void>
+ </object>
+ <object class="com.company.Plan">
+  <void property="date">
+   <string>л</string>
+  </void>
+  <void property="describe">
+   <string>л</string>
+  </void>
+  <void property="name">
+   <string>жд</string>
+  </void>
+  <void property="people">
+   <string>дл</string>
+  </void>
+  <void property="place">
+   <string>лд</string>
+  </void>
+  <void property="time">
+   <string>д</string>
+  </void>
+ </object>
+</java>
